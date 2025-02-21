@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <!-- Белый король -->
+  <symbol id="white-king" viewBox="0 0 50 50">
+    <path d="M25 5v5m-5 5h10m-15 5h20l-5 10h-10z" stroke="black" fill="white" stroke-width="2"/>
+  </symbol>
+
+  <!-- Черный король -->
+  <symbol id="black-king" viewBox="0 0 50 50">
+    <path d="M25 5v5m-5 5h10m-15 5h20l-5 10h-10z" stroke="black" fill="black" stroke-width="2"/>
+  </symbol>
+  
+  <!-- Белая ферзь -->
+  <symbol id="white-queen" viewBox="0 0 50 50">
+    <circle cx="15" cy="10" r="2" fill="white" stroke="black"/>
+    <circle cx="25" cy="5" r="2" fill="white" stroke="black"/>
+    <circle cx="35" cy="10" r="2" fill="white" stroke="black"/>
+    <path d="M10 15h30l-5 15h-20z" stroke="black" fill="white" stroke-width="2"/>
+  </symbol>
+
+  <!-- Черная ферзь -->
+  <symbol id="black-queen" viewBox="0 0 50 50">
+    <circle cx="15" cy="10" r="2" fill="black" stroke="black"/>
+    <circle cx="25" cy="5" r="2" fill="black" stroke="black"/>
+    <circle cx="35" cy="10" r="2" fill="black" stroke="black"/>
+    <path d="M10 15h30l-5 15h-20z" stroke="black" fill="black" stroke-width="2"/>
+  </symbol>
+
+  <!-- Белая ладья -->
+  <symbol id="white-rook" viewBox="0 0 50 50">
+    <rect x="10" y="15" width="30" height="20" fill="white" stroke="black" stroke-width="2"/>
+  </symbol>
+
+  <!-- Черная ладья -->
+  <symbol id="black-rook" viewBox="0 0 50 50">
+    <rect x="10" y="15" width="30" height="20" fill="black" stroke="black" stroke-width="2"/>
+  </symbol>
+
+  <!-- Белый слон -->
+  <symbol id="white-bishop" viewBox="0 0 50 50">
+    <path d="M25 5q-10 10 0 20t0 10" stroke="black" fill="white" stroke-width="2"/>
+  </symbol>
+
+  <!-- Черный слон -->
+  <symbol id="black-bishop" viewBox="0 0 50 50">
+    <path d="M25 5q-10 10 0 20t0 10" stroke="black" fill="black" stroke-width="2"/>
+  </symbol>
+
+  <!-- Белый конь -->
+  <symbol id="white-knight" viewBox="0 0 50 50">
+    <path d="M15 35q10-20 20-15t-10 15z" stroke="black" fill="white" stroke-width="2"/>
+  </symbol>
+
+  <!-- Черный конь -->
+  <symbol id="black-knight" viewBox="0 0 50 50">
+    <path d="M15 35q10-20 20-15t-10 15z" stroke="black" fill="black" stroke-width="2"/>
+  </symbol>
+
+  <!-- Белая пешка -->
+  <symbol id="white-pawn" viewBox="0 0 50 50">
+    <circle cx="25" cy="10" r="5" fill="white" stroke="black"/>
+    <rect x="20" y="15" width="10" height="20" fill="white" stroke="black" stroke-width="2"/>
+  </symbol>
+
+  <!-- Черная пешка -->
+  <symbol id="black-pawn" viewBox="0 0 50 50">
+    <circle cx="25" cy="10" r="5" fill="black" stroke="black"/>
+    <rect x="20" y="15" width="10" height="20" fill="black" stroke="black" stroke-width="2"/>
+  </symbol>
+</svg>
